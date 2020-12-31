@@ -1,0 +1,16 @@
+theme = "harbor" 
+baseurl = "/"
+languageCode = "en-us"
+languageLang = "en"
+title = "Parallel Gradients"
+
+# RSS, categories and tags disabled for an easy start
+# See configuration options for more details: 
+# https://gohugo.io/getting-started/configuration/#toml-configuration
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+
+[[params.nav]]
+    identifier = "about"
+    name = "about me"
+    url = "about"
