@@ -4,6 +4,7 @@ date = 2020-12-30T22:16:36-05:00
 draft = false
 toc = false
 backtotop = false
+disable_comment = false
 +++
 
 When getting to know a new programming language, the first thing most developers try to do is to make these two words appear on the screen of the computer. In my case, this small, innocent-looking, program is often all I need to get hooked into a new language, giving me a glimpse of what it might be possible to do with it. To keep the tradition alive, I will start this blog, my personal corner of the internet, with the same two words:
