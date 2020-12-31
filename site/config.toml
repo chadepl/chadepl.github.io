@@ -11,6 +11,11 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 
 [[params.nav]]
+    identifier = "blog"
+    name = "blog"
+    url = "post"
+
+[[params.nav]]
     identifier = "about"
     name = "about me"
     url = "about"
