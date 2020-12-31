@@ -2,13 +2,19 @@ theme = "harbor"
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
+DefaultContentLanguage = "en"
 title = "Parallel Gradients"
+paginate = 5
+footnoteReturnLinkContents = "^"
+
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
+[[Author]]
+    name = "Nicolas Chaves-de-Plaza"
 
 [[params.nav]]
     identifier = "blog"
@@ -19,3 +25,22 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
     identifier = "about"
     name = "about me"
     url = "about"
+
+# Social
+
+[[params.social]]
+    name="twitter"
+    url="https://twitter.com/nicodeplaza"
+    icon="fab fa-twitter"
+
+[[params.social]]
+    name="linkedin"
+    url="https://www.linkedin.com/in/nicolaschavesdeplaza/"
+    icon="fab fa-linkedin"
+
+#[params.logo]
+#    url = "icon.png" # static/images/icon.png
+#    width = 50
+#    height = 50
+#    alt = "Logo"
+

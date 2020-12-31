@@ -1,7 +1,6 @@
 +++
 title = "Hello World"
 date = 2020-12-30T22:16:36-05:00
-tags = [""]
 draft = false
 toc = false
 backtotop = false
