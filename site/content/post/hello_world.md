@@ -1,20 +1,20 @@
 +++
 title = "Hello World"
-date = 2020-12-30T22:16:36-05:00
+date = 2021-01-10T00:00:00-00:00
 draft = false
 toc = false
 backtotop = false
 disable_comment = true
+katex = true
+markup = "mmark"
 +++
 
-When getting to know a new programming language, the first thing most developers try to do is to make these two words appear on the screen of the computer. In my case, this small, innocent-looking, program is often all I need to get hooked into a new language, giving me a glimpse of what it might be possible to do with it. To keep the tradition alive, I will start this blog, my personal corner of the internet, with the same two words:
+When trying out a new programming language for the first time, a common tradition in the software development word is to make the words "Hello World" appear on the screen. In my case, this small program is often all I need to get hooked into a new language, giving me a glimpse of what it might be possible to do with it. To keep the tradition alive, I will start this blog, my personal corner of the internet, with the same two words:
 
 Hello World!
 
-Even though the idea of having a space to write more casually had been in my mind for a long time, I had not done it because of how hard and time consuming I found it to express my thoughts. Despite this, in the past few years, I have put a big effort in trying to improve my writing. This made me realize that it is possible to get better at untangling and writing down one's thoughts. Not only this, I have discovered the incredible sensation that takes place when one is finally able to do so.
+Even though the idea of having a space to write more casually had been in my mind for a long time, I hadn't done it because of how hard and time consuming I found it to coherently write my thoughts down. In the past few years, I put a conscious effort into improving my writing, which made me realize that only by deliberate practice is it possible to get better at this endeavor. 
 
-Having said this, I am pursuing two main goals by maintaining this blog. On one hand, I want to keep practicing my writing so I can keep getting better at organizing and expressing my thoughts. On the other, I want to keep a log of my thoughts on the topics that interest me. This is not only a good excuse for exploring different concepts in-depth "just because", but will also, hopefully, help me recalling information more easily.
+Having said this, with this blog, I am aiming at two things. On the one hand, I want to keep practicing my writing. On the other, and maybe more important, I want to keep a log of the topics and ideas that interest me. Because of my [broad range of interests](about), don't expect this blog to follow a coherent theme. Instead, you will find posts about topics that are currently exciting to me. At the moment, this includes productivity, technology, software, math, machine learning, health, visualization, and computer graphics.
 
-Because of my [broad range of interests](https://www.notion.so/My-Bio-5703274f1d384f1891259293bbb261d5) don't expect the blog to follow a coherent path. Instead, you can expect to find posts about food, productivity, technology, software, math, machine learning, health, visualization, computer graphics, and more.
-
-I believe that my level of excitement while writing this Hello World "program" is a good indication of my commitment to this journey. I hope you're as excited as I am and that you enjoy what is coming. See you around!
+If the level of excitement that I felt while writing this page is, as has been the case with "Hello Worlds" in other programming languages, an indicator of my future commitment to this blog, I believe this will be a great journey. I hope that you join me and that you enjoy the upcoming content. See you around!

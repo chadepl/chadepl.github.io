@@ -28,6 +28,11 @@ disqusShortName = "parallelgradients"
     name = "about me"
     url = "about"
 
+#[[params.nav]]
+#    identifier = "cv"
+#    name = "cv"
+#    url = ""
+
 # Social
 
 [[params.social]]
@@ -40,9 +45,14 @@ disqusShortName = "parallelgradients"
     url="https://www.linkedin.com/in/nicolaschavesdeplaza/"
     icon="fab fa-linkedin"
 
-#[params.logo]
-#    url = "icon.png" # static/images/icon.png
-#    width = 50
-#    height = 50
-#    alt = "Logo"
+[[params.social]]
+    name="instagram"
+    url="https://www.instagram.com/parallelgradients/"
+    icon="fab fa-instagram"
+
+[params.logo]
+    url = "icon.png" # static/images/icon.png
+    width = 50
+    height = 50
+    alt = "Logo"
 
