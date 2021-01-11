@@ -56,3 +56,11 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
     height = 50
     alt = "Logo"
 
+# stylesheets
+
+[params]
+  customCSS = ["/css/my-main.css"] # in case you use `/static/css/custom.css`
+
+# To enable using HTML
+[markup.goldmark.renderer]
+    unsafe= true
